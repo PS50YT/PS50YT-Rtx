@@ -1,1 +1,1 @@
-[Home](#home) | [About](#about) | [Features](#features) | [Contact](#contact)
+[Home](#home) | [About](#about) | [Features](#features) | [Contact](#c)
