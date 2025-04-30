@@ -1,11 +1,8 @@
 [Home](#home) | [PS50YT RTX](rtx.md) | [Features](#features) | [Contact](#c)
-<div style="div.scroll-container {
+<div style="{
   background-color: #333;
   overflow: auto;
   white-space: nowrap;
-  padding: 10px;
-}
-div.scroll-container img {
   padding: 10px;
 }">
   <img src="cp2.jpg" alt="Cinque Terre" width="600" height="400">
